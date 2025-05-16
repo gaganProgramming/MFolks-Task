@@ -7,9 +7,14 @@
 
 ---
 
+<img src="./images/Bulb.jpg" alt="Alt Text" width="700" height="350"/>
+
 ## **Q1. Market Research – Competitor Identification**
 
 Based on MFolks’ digital presence and assumed domain (industrial solutions and/or B2B innovation), here are **top 3 competitors** identified:
+
+
+
 
 | Competitor Name | Website                                                | Core Offerings                              |
 | --------------- | ------------------------------------------------------ | ------------------------------------------- |
@@ -18,6 +23,8 @@ Based on MFolks’ digital presence and assumed domain (industrial solutions and
 | **Moglix**      | [https://www.moglix.com](https://www.moglix.com)       | Industrial supplies, procurement automation |
 
 ---
+
+<img src="./images/Compitative-img.jpg" alt="Alt Text" width="700" height="350"/>
 
 ## **Q2. Competitive Analysis – USP Comparison**
 
@@ -45,6 +52,8 @@ Based on MFolks’ digital presence and assumed domain (industrial solutions and
 * **Enterprise Contracts**: Moglix excels in securing bulk corporate deals.
 
 ---
+
+<img src="./images/Statergy.jpg" alt="Alt Text" width="700" height="300"/>
 
 ## **Q3. Strategic Thinking – Gaining Competitive Edge**
 
