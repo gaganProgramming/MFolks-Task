@@ -96,5 +96,11 @@ MFolks can lead by owning a **smaller, underserved niche with deep value**, leve
 
 ---
 
+## Candidate Details
+#### Name : Gagan Suresh
+#### Mobile Number: 9008962068
+#### Education: BE in (Civil Engineering) 
+
+
 
 
